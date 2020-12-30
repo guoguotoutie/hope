@@ -1,0 +1,14 @@
+# Project exclude paths
+/hs-api-gateway/target/
+/hs-auth/hs-auth-common/target/
+/hs-auth/hs-auth-service/target/
+/hs-common/target/
+/hs-goods-web/target/
+/hs-item/hs-item-interface/target/
+/hs-item/hs-item-service/target/
+/hs-registry/target/
+/hs-search/target/
+/hs-sms/target/
+/hs-upload/target/
+/hs-user/hs-user-interface/target/
+/hs-user/hs-user-service/target/
